@@ -23,3 +23,4 @@
 0:0:0:0:0:0:0:1 - - [16/Feb/2024:12:31:51 -0600] "GET /spring/bmi?height=90&weight=200 HTTP/1.1" 405 749
 0:0:0:0:0:0:0:1 - - [16/Feb/2024:12:32:00 -0600] "POST /spring/bmi?height=90&weight=200 HTTP/1.1" 200 18
 0:0:0:0:0:0:0:1 - - [16/Feb/2024:12:32:01 -0600] "POST /spring/bmi?height=90&weight=200 HTTP/1.1" 200 18
+0:0:0:0:0:0:0:1 - - [16/Feb/2024:12:47:02 -0600] "POST /spring/bmi?height=90&weight=200 HTTP/1.1" 200 18
